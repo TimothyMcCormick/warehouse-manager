@@ -1,0 +1,5 @@
+.bg-main-img{
+  background-image: url(./package-warehouse.jpg);
+  background-position: center;
+  object-fit: cover;
+}
